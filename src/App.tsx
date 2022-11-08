@@ -18,6 +18,7 @@ function App () {
         <Route element={<PrivateRoute/>}>
           <Route path='/bands' element={<Dashboard />} />
           <Route path='/bands/:id' element={<BandDetail />}/>
+          <Route path="*" element={<Navigate to='/bands' replace />} />
         </Route>
         <Route path="*" element={<Navigate to='/' replace />} />
       </Routes>

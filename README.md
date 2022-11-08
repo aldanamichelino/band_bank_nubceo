@@ -2,6 +2,6 @@
 
 ## Installation
 
-- Run npm install
+- Run yarn install
 - Start server with npx vite
 
