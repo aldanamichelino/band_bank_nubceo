@@ -2,6 +2,7 @@
 
 ## Installation
 
-- Run yarn install
-- Start server with npx vite
+- To install yarn in your local machine: npm install --global yarn
+- To install the project's dependencies: yarn install
+- To start dev server: npx vite
 
