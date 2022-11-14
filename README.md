@@ -2,6 +2,6 @@
 
 ## Installation
 
-- Run npm install
-- Start server with npx vite
+- To install the project's dependencies: npm install
+- To start dev server: npx vite
 
